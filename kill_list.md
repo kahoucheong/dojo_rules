@@ -6,4 +6,4 @@ bad coding practices
 * Repeated code blocks
 * Bad variable names
 * added more
-* added 1
+
